@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-10-20T07:48:16.745527169Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-10-20T15:18:48.238182934Z",
     "templateType": "trip_d",
     "propertyId": "36eaa124-0d3e-4e51-9a39-ea3bf9a5b8ca",
     "homepageId": "72414876-0c2c-4266-84a8-b47ee9f1bc8b"
@@ -2249,9 +2249,9 @@
       },
       "theme": {
         "font": {
+          "koMain": null,
           "koSub": null,
-          "enMain": null,
-          "koMain": null
+          "enMain": null
         },
         "color": null
       },
@@ -3355,7 +3355,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
